@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.menu-principal {
+  width: 100%;
+  background-color: #252323;
+  height: 60px;
+}
+
+main {
+  margin: 0 auto;
+  position: relative;
+  width: 980px;
+}
+
+.logo {
+  padding: 15px;
+  width: 75%;
+  float: left;
+}
+
+.redes-sociais {
+  width: 20%;
+  float: right;
+}
+
+.redes-sociais ul li {
+  display: inline-block;
+  margin-left: 10px;
+}
